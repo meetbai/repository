@@ -1,2 +1,2 @@
  git for
- test
+ test 1.0
